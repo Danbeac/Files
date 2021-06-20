@@ -1,0 +1,84 @@
+{
+    "images" : [
+        {
+            "ImageUrl" : "./images/image-1.jpg",
+            "ImageDescription" : "Beautiful Nature"
+        },
+        {
+            "ImageUrl" : "./images/image-2.png",
+            "ImageDescription" : "Cat Art"
+        },
+        {
+            "ImageUrl" : "./images/image-3.jpg",
+            "ImageDescription" : "Lorem, ipsum."
+        },
+        {
+            "ImageUrl" : "./images/image-4.jpg",
+            "ImageDescription" : "Lorem, ipsum."
+        },
+        {
+            "ImageUrl" : "./images/image-5.jpg",
+            "ImageDescription" : "Lorem, ipsum."
+        },
+        {
+            "ImageUrl" : "./images/image-6.jpg",
+            "ImageDescription" : "Lorem, ipsum."
+        },
+        {
+            "ImageUrl" : "./images/image-7.jpg",
+            "ImageDescription" : "Lorem, ipsum."
+        },
+        {
+            "ImageUrl" : "./images/image-8.jpg",
+            "ImageDescription" : "Lorem, ipsum."
+        },
+        {
+            "ImageUrl" : "./images/image-9.jpg",
+            "ImageDescription" : ""
+        },
+        {
+            "ImageUrl" : "./images/image-10.jpg",
+            "ImageDescription" : "Lorem, ipsum."
+        },
+        {
+            "ImageUrl" : "./images/image-11.jpg",
+            "ImageDescription" : "Both Landscapes"
+        },
+        {
+            "ImageUrl" : "./images/image-12.jpg",
+            "ImageDescription" : "Lorem, ipsum."
+        },
+        {
+            "ImageUrl" : "./images/image-13.jpg",
+            "ImageDescription" : "Lorem, ipsum."
+        },
+        {
+            "ImageUrl" : "./images/image-14.jpg",
+            "ImageDescription" : "Lorem, ipsum."
+        },
+        {
+            "ImageUrl" : "./images/image-15.jpg",
+            "ImageDescription" : "Lorem, ipsum."
+        },
+        {
+            "ImageUrl" : "./images/image-16.jpg",
+            "ImageDescription" : "Lorem, ipsum."
+        },
+        {
+            "ImageUrl" : "./images/image-17.jpg",
+            "ImageDescription" : "Lorem, ipsum."
+        },
+        {
+            "ImageUrl" : "./images/image-18.jpg",
+            "ImageDescription" : "Lorem, ipsum."
+        },
+        {
+            "ImageUrl" : "./images/image-19.png",
+            "ImageDescription" : "Amazing JS Logo"
+        },
+        {
+            "ImageUrl" : "./images/image-20.jpg",
+            "ImageDescription" : "Lorem, ipsum."
+        }
+    ]
+}
